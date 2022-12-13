@@ -1,0 +1,19 @@
+{
+    "name": "hackcat/bienesraices",
+    "description": "Bienes Raices",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Emmanuel Garcia Arias",
+            "email": "e.garciaarias@ugto.mx"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}
